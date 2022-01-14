@@ -52,8 +52,7 @@ else :
     print("Password wrong")
     time.sleep(100000000000000000000000000000)
 
-print("User @Root = Team RavenRaiders") 
-print("Leader @Root = Cloud
+print("User @Root = Team RavenRaiders|@Leader Root=ICloud") 
 ip = str(input(" $IP = "))
 port = int(input(" $Port = "))
 method = str(input(" $udp/tcp = "))
